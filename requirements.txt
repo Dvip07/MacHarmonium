@@ -1,0 +1,7 @@
+pygame>=2.5.0
+numpy>=1.26.0
+
+# Optional but Recommended for the MacOS
+pyobjc>=10.0
+pyobjc-framework-Quartz>=10.0
+pyobjc-framework-Cocoa>=10.0
